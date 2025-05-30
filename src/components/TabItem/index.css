@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.tab-button {
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  color: #7b8794;
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid #b5bbc1;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.active-tab-button {
+  border-bottom: 3px solid #2563eb;
+  color: #2563eb;
+}
